@@ -7,5 +7,3 @@ Xiong, ``Denoising of bistatic ranges for elliptic positioning,'' IEEE Geosci. R
 You could use the code for your comparisons at will, as long as the paper above is included as a reference in your manuscript.
 
 If you require any further information, feel free to contact me at w.x.xiong@outlook.com
-
-
